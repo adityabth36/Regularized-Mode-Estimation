@@ -8,9 +8,9 @@ The codes can reproduce figures and tables as discussed in the associated resear
 | File Name                | Description |
 | :----------------------- | :----------- |
 | **Bivariate_Normal_Graph.m** | Plots the mode of a bivariate normal distribution using the proposed algorithm (PIM). |
-| **CIM.m**                  | Classical Iterative Method (CIM) implementation as proposed by J. Fritz. |
+| **CIM.m**                  | Classical Iterative Method (CIM) as proposed by J. Fritz. |
 | **Code_for_Table_2.m**      | Generates Table 2: Results for bivariate distributions comparing PIM, RIM, and CIM. |
-| **Code_for_Table_3.m**      | Generates Table 3: Results for different univariate distributions for PIM, RIM, and CIM. |
+| **Code_for_Table_3.m**      | Generates Table 3: Results for different univariate distributions for PIM, RIM, and CCIM. |
 | **drachrnd.m**              | Code to generate samples from the Dirichlet distribution. |
 | **PIM.m**                  | Proposed Iterative Method (PIM) for mode estimation for univariate distributions. |
 | **RIM.m**                  | Recent Iterative Method (RIM) for univariate distributions. |
@@ -18,9 +18,11 @@ The codes can reproduce figures and tables as discussed in the associated resear
 
 ## About the Methods
 
-- **CIM (Classical Iterative Method)**: Traditional approach to iterative mode estimation.
-- **RIM (Recent Iterative Method)**: A modified and improved version of CIM.
-- **PIM (Proposed Iterative Method)**: A new efficient algorithm for mode estimation, exhibiting better performance across various distributions.
+- **CIM (Classical Iterative Method)**: Classical approach for mode estimation given by J. Fritz in 1973 as discussed in the manuscript.
+- **RIM (Recent Iterative Method)**: A regularized iterative method for mode estimation proposed by Chandramouli Kamanchi et al. in 2019.  
+  GitHub link: [https://github.com/raghudiddigi/Mode-Estimation](https://github.com/raghudiddigi/Mode-Estimation)
+- **PIM (Proposed Iterative Method)**: A new efficient algorithm for mode estimation, exhibiting better performance compared to RIM and CIM as discussed in the manuscript.
+
 
 ## How to Run
 
