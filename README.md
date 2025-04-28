@@ -11,7 +11,7 @@ The codes can reproduce figures and tables as discussed in the associated resear
 | **CIM.m**                  | Classical Iterative Method (CIM) implementation as proposed by J. Fritz. |
 | **Code_for_Table_2.m**      | Generates Table 2: Results for bivariate distributions comparing PIM, RIM, and CIM. |
 | **Code_for_Table_3.m**      | Generates Table 3: Results for different univariate distributions for PIM, RIM, and CIM. |
-| **Drachrnd.m**              | Code to generate samples from the Dirichlet distribution. |
+| **drachrnd.m**              | Code to generate samples from the Dirichlet distribution. |
 | **PIM.m**                  | Proposed Iterative Method (PIM) for mode estimation for univariate distributions. |
 | **RIM.m**                  | Recent Iterative Method (RIM) for univariate distributions. |
 | **Size_Graph.m**            | Plots the size (spread) of the distribution samples. |
