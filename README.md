@@ -15,6 +15,7 @@ The codes can reproduce figures and tables as discussed in the associated resear
 | **PIM.m**                  | Proposed Iterative Method (PIM) for mode estimation for univariate distributions. |
 | **RIM.m**                  | Recent Iterative Method (RIM) for univariate distributions. |
 | **Size_Graph.m**            | Plots the size of the distribution. |
+| **Normalize_Graph.m**      | Code for figure 1-b for PIM.|
 
 ## About the Methods
 
