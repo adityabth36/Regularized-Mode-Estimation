@@ -16,6 +16,7 @@ The codes can reproduce figures and tables as discussed in the associated resear
 | **RIM.m**                  | Recent Iterative Method (RIM) for univariate distributions. |
 | **Size_Graph.m**            | Plots the size of the distribution. |
 | **Normalize_Graph.m**      | Code for figure 1-b for PIM.|
+| **Univariate_Graph.m**     | Code for univariate graph 1-a.|
 
 ## About the Methods
 
