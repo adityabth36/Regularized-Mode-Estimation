@@ -7,16 +7,14 @@ The codes can reproduce figures and tables as discussed in the associated resear
 
 | File Name                | Description |
 | :----------------------- | :----------- |
-| **Bivariate_Normal_Graph.m** | Plots the mode of a bivariate normal distribution using the proposed algorithm (PIM). |
 | **CIM.m**                  | Classical Iterative Method (CIM) as proposed by J. Fritz. |
 | **Code_for_Table_2.m**      | Generates Table 2: Results for bivariate distributions comparing PIM, RIM, and CIM. |
-| **Code_for_Table_3.m**      | Generates Table 3: Results for different univariate distributions for PIM, RIM, and CCIM. |
+| **Code_for_Table_1.m**      | Generates Table 3: Results for different univariate distributions for PIM, RIM, and CCIM. |
 | **drachrnd.m**              | Code to generate samples from the Dirichlet distribution. |
 | **PIM.m**                  | Proposed Iterative Method (PIM) for mode estimation for univariate distributions. |
 | **RIM.m**                  | Recent Iterative Method (RIM) for univariate distributions. |
-| **Size_Graph.m**            | Plots the size of the distribution. |
-| **Normalize_Graph.m**      | Code for figure 1-b for PIM.|
-| **Univariate_Graph.m**     | Code for univariate graph 1-a.|
+| **Graph_2.m**            | Plots the size of the distribution. |
+| **Graph_1.m**     | Code for univariate distribution Normal(20,5)|
 
 ## About the Methods
 
